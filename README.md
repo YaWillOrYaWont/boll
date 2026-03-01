@@ -7,5 +7,5 @@ luckily, I had just made an executable beforehand.
 It's 4:12 AM
 
 update: I checked and I still have the sprites.
-update: ok not even all of them are there..
+update: ok not even all of them are there...
 
