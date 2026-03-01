@@ -1,6 +1,6 @@
 # oops
 not gonna lie, I geninuely lost all of my project data. 
-I tried to copy a missplaced project folder and then my computer bluescreened and everything's gone. 
+I tried to copy a missplaced project folder but accidentally overwrote the up-to-date one. 
 luckily, I had just made an executable beforehand.
 It's 4:12 AM
 
